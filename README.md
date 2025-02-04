@@ -1,2 +1,2 @@
 # chatbot-rag
-Implémentation d'un chatbot à travers l'architecture rag
+Ce projet a pour but d'implémenter un chatbot en se basant surl'architecture rag.
