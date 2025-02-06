@@ -1,0 +1,41 @@
+allumer_lumiere_salon.py
+Allume la lumière du salon.
+eteindre_lumiere_salon.py
+Éteint la lumière du salon.
+allumer_lumiere_chambre.py
+Allume la lumière de la chambre.
+eteindre_lumiere_chambre.py
+Éteint la lumière de la chambre.
+ouvrir_volets_salon.py
+Ouvre les volets du salon.
+fermer_volets_salon.py
+Ferme les volets du salon.
+ouvrir_volets_chambre.py
+Ouvre les volets de la chambre.
+fermer_volets_chambre.py
+Ferme les volets de la chambre.
+augmenter_temperature.py
+Augmente la température du chauffage de 1°C.
+reduire_temperature.py
+Réduit la température du chauffage de 1°C
+activer_mode_nuit.py
+Active le mode nuit : extinction des lumières, fermeture des volets et baisse du chauffage.
+desactiver_mode_nuit.py
+Désactive le mode nuit : rétablit les éclairages et la température habituelle.
+allumer_tv.py
+Allume la télévision.
+eteindre_tv.py
+Éteint la télévision.
+activer_mode_cinema.py
+Active le mode cinéma : tamise les lumières et allume la TV.
+activer_mode_absence.py
+Active le mode absence : extinction des appareils et mise en veille des équipements.
+ouvrir_portail.py
+Ouvre le portail automatique.
+fermer_portail.py
+Ferme le portail automatique.
+demarrer_arrosage.py
+Démarre l'arrosage automatique du jardin.
+arreter_arrosage.py
+Arrête l'arrosage automatique du jardin.
+
